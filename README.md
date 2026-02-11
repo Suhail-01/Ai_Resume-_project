@@ -88,4 +88,5 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+live link:-    https://ai-resume-project-2uoj.vercel.app/
 
